@@ -1,6 +1,6 @@
 # Análisis de gasto y compensaciones de colaboradores
 
-Proyecto académico (UDLA, Decisiones y Simulación) desarrollado en equipo con Python.
+Proyecto académico desarrollado con Python.
 
 **Pregunta de negocio:** ¿dónde se concentra el gasto y qué áreas, ciudades y modalidades rinden mejor en una empresa de 350 colaboradores?
 
